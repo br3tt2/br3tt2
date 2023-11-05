@@ -1,7 +1,8 @@
 - 😊 Hi, I’m @br3tt2
 - 🌷 I’m interested in all things data science and analytics 
 - 🌱 I’m currently learning linear regression, probability, ML & AI and spark languages 
-- 📫 email me: karstebd@mail.uc.edu 
+- 📫 email me: karstebd@mail.uc.edu
+- 👾 Programming Languages: Python, R, SQL, PySpark, SparkSQL
 
 <!---
 br3tt2/br3tt2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
