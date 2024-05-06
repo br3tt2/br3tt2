@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @br3tt2
-- 👾 I’m a Data Scientist in training...
+- 👾 I’m a Data Scientist
 - 🌱 I’m currently learning about MLOps, deploying ML systems & neural networks
 - 📍 Cincinnati is home (for now)
 - 🚀 I’m open to collaborating on data science projects
