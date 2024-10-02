@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @br3tt2
-- 👾 I’m a Data Scientist
+- 👾 I’m a Data Engineer
 - 🌱 I’m currently learning about MLOps & data engineering concepts
 - 📍 Cincinnati is home (for now)
-- 🚀 I’m open to collaborating on data science projects
+- 🚀 I’m open to collaborating on data-related projects
 - 📫 email me: karstebd@mail.uc.edu
 
 
