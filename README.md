@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @br3tt2
 - 👾 I’m a Data Engineer
-- 🌱 I’m currently learning about MLOps & data engineering concepts
+- 🌱 I’m currently learning more in Airflow 3!!
 - 📍 Cincinnati is home (for now)
 - 🚀 I’m open to collaborating on data-related projects
 - 📫 email me: karstebd@mail.uc.edu
