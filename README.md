@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @br3tt2
 - 👾 I’m a Data Engineer
-- 🌱 I’m currently learning more in Airflow 3!!
+- 🌱 I’m currently developing skills in Airflow, dbt, and cloud conceppts
 - 📍 Cincinnati is home (for now)
 - 🚀 I’m open to collaborating on data-related projects
-- 📫 email me: karstebd@mail.uc.edu
+- 📫 contact me through my linkedin!
 
 
 <!---
